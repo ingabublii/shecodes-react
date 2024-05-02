@@ -1,0 +1,47 @@
+h1 {
+    margin: 0;
+    font-size: 38px;
+    line-height: 48px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 24px;
+    color: #272044;
+    font-weight: bold;
+}
+
+.weather-app-icon {
+    width: 88px;
+    height: 88px;
+}
+
+.weather-app-container {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.temperature-container {
+    display: flex;
+    font-size: 35px;
+}
+
+.current-weather-details {
+    margin-right: 10px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #272044;
+    font-weight: bold;
+}
+
+.current-temperature {
+    font-size: 88px;
+    line-height: 88px;
+    font-weight: bol
+}
+
+.weather-degrees {
+    margin-top: 6px;
+    font-size: 28px;
+}

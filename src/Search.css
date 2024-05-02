@@ -1,0 +1,21 @@
+.search-form-input {
+    background-color: lavenderblush;
+    border: none;
+    border-radius: 6px;
+    width: 80%;
+    padding: 15px 20px;
+}
+
+.search-form-button {
+    background-color: plum;
+    padding: 15px 30px;
+    font-size: 16px;
+    border: none;
+    border-radius: 6px;
+    margin-left: 5px;
+}
+
+.search {
+    border-bottom: 1px solid lavenderblush;
+    padding: 0 0 30px 0;
+}
